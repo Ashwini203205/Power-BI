@@ -8,4 +8,6 @@ Day 2: Visualization: Bar
 
 Day 3: New Data with transorm and Line visualization
 
-Day 4: 
+Day 4: Line, Ribben, Waterfall, Funnel.
+
+Day 5: 
