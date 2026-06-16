@@ -12,4 +12,4 @@ Day 4: Line, Ribben, Waterfall, Funnel.
 
 Day 5: Pie, Scatter, Donut
 
-Day 6: 
+Day 6: Tree, Map, Filled map, gauge & KPI with slicer
