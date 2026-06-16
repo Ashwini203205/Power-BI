@@ -10,4 +10,6 @@ Day 3: New Data with transorm and Line visualization
 
 Day 4: Line, Ribben, Waterfall, Funnel.
 
-Day 5: 
+Day 5: Pie, Scatter, Donut
+
+Day 6: 
